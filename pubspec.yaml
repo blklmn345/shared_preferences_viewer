@@ -1,5 +1,5 @@
 name: shared_preferences_viewer
-description: A new Flutter package project.
+description: A package provides a widget showing datas stored in SharedPreferences. 
 version: 0.0.1
 repository: https://github.com/blklmn345/shared_preferences_viewer
 
